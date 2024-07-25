@@ -1,3 +1,6 @@
 .DS_Store
 7DT/reduction/data/*
-!7DT/reduction/data/*.*
+# !7DT/reduction/data/*.*
+7DT/reduction/data/2024-03-12_gain2750/*
+7DT/reduction/data/2024-04-22_ToO_gain2750/*
+7DT/reduction/data/2024-03-12_gain2750/7DT01_BIAS__2024-03-13_02-10-13_u_1x1_0.00s_0000.fits
