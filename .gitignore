@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-7DT/reduction/data/*
-=======
 .DS_Store
->>>>>>> ece14781dd1ddff52d5975df4b70380944aaa8ac
+7DT/reduction/data/*
+!7DT/reduction/data/*.*
